@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5E78B3A-11C0-4494-932E-84665741B40E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AwesomeProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB80D5F367920553CA977D8CE6B494A599FE0F6F</key>
+		<string>github.com:tako-black/AwesomeProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AwesomeProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB80D5F367920553CA977D8CE6B494A599FE0F6F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:tako-black/AwesomeProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB80D5F367920553CA977D8CE6B494A599FE0F6F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB80D5F367920553CA977D8CE6B494A599FE0F6F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AwesomeProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
